@@ -1,0 +1,14 @@
+1,gauntlet,Physical_DMG
+2,sword,Physical_DMG
+3,claymore,Physical_DMG
+4,polearm,Physical_DMG
+5,dagger,Physical_DMG
+6,bow,Ranged_DMG
+7,crossbow,Ranged_DMG
+8,wand,Magic_DMG
+9,harp,Music_DMG
+10,helmet,Defense
+11,pauldron,Defense
+12,chestpiece,Defense
+13,pants,Defense
+14,boots,Defense
